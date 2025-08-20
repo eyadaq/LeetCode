@@ -1,6 +1,4 @@
-Absolutely! Here's a **Markdown cheat sheet** for `unordered_set` and `unordered_map`, with keywords, usage hints, and constraints.
 
-````markdown
 # C++ Hashing Cheat Sheet
 
 ---
@@ -109,11 +107,4 @@ for (auto [num, count] : freq) {
 * For duplicates, membership → use `unordered_set` (simple & memory efficient).
 * For counts, frequency, or extra info → use `unordered_map`.
 
-```
-
----
-
-I can also make a **diagram showing HashSet vs HashMap visually** with buckets and collisions — it’s super helpful for intuition.  
-
-Do you want me to make that diagram next?
 ```
