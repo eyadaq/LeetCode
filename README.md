@@ -4,5 +4,5 @@ This is my personal workspace to improve problem-solving and logic skills by sol
 
 ## Questions Solved
 
-1. **Two Sum** - Find indices of two numbers that add up to a target.
+1. **Contains Duplicate** - Given an integer array nums, return true if any value appears at least twice in the array, and return false if every element is distinct..
 
