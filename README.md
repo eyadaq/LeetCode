@@ -4,5 +4,6 @@ This is my personal workspace to improve problem-solving and logic skills by sol
 
 ## Questions Solved
 
-1. **Contains Duplicate** - Given an integer array nums, return true if any value appears at least twice in the array, and return false if every element is distinct..
+1. **Contains Duplicate** - Given an integer array nums, return true if any value appears at least twice in the array, and return false if every element is distinct.
 
+2. **Valid Anagram** - Given two strings s and t, return true if t is an anagram of s, and false otherwise.
