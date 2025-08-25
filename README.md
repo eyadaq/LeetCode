@@ -10,4 +10,10 @@ This is my personal workspace to improve problem-solving and logic skills by sol
 
 3. **Two Sum** - Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 
-4. **Group Anagrams** - 
+4. **Group Anagrams** - Given an array of strings strs, group the anagrams together. You can return the answer in any order.
+
+5. **Top K Frequent Elements** - Given an integer array nums and an integer k, return the k most frequent elements within the array.
+
+6. **Encode and Decode Strings** - Design an algorithm to encode a list of strings to a single string. The encoded string is then decoded back to the original list of strings.
+
+7. **Products of Array Except Self** - Given an integer array nums, return an array output where output[i] is the product of all the elements of nums except nums[i].
