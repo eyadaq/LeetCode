@@ -32,3 +32,4 @@ This is my personal workspace to improve problem-solving and logic skills by sol
 
 3. **3Sum** - Given an integer array nums, return all the triplets [nums[i], nums[j], nums[k]] such that i != j, i != k, and j != k, and nums[i] + nums[j] + nums[k] == 0.
 
+4. **Container With Most Water** - Find two lines that together with the x-axis form a container, such that the container contains the most water.
